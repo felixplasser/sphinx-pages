@@ -1,20 +1,22 @@
-.. This file is generated from sphinx-notes/template. DO NOT EDIT.
+.. matilda documentation master file
 
-.. include:: ../README.rst
+MATILDA
+=======
 
-The Sphinx Notes Project
-========================
-
-This project is a developed by `Shengyu Zhang`__,
-as part of **The Sphinx Notes Project**.
-
-Test if this works
+Welcome to the MATILDA documentation!
 
 .. toctree::
-   :caption: The Sphinx Notes Project
+   :maxdepth: 1
+   :caption: Contents:
 
-   Home <https://sphinx.silverrainz.me/>
-   Blog <https://silverrainz.me/blog/category/sphinx.html>
-   PyPI <https://pypi.org/search/?q=sphinxnotes>
+   installation
+   int_coor
+   alignment
+   vibcoup
+   util
 
-__ https://github.com/SilverRainZ
+If you have any questions,
+post an `issue on github <https://github.com/felixplasser/matilda/issues>`_,
+or send me an email at f.plasser(at)lboro.ac.uk.
+
+.. include:: ../README.rst
