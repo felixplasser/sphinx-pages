@@ -7,6 +7,8 @@ Sphinx to GitHub Pages V3
 
 Helps you deploy your Sphinx documentation to Github Pages.
 
+This it to test if this works
+
 Usage
 =====
 
